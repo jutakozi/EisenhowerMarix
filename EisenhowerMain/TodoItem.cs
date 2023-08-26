@@ -48,4 +48,4 @@ namespace EisenhowerCore
         string formattedDeadline = deadline.ToString("dd-MM");
         return $"{status} {formattedDeadline} {title}";
     }
-}}
+}
